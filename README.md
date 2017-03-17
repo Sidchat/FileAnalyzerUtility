@@ -3,6 +3,7 @@ set of data elements in all of them. The number of total files are limited to 26
 The script is coded into a executable file in a windows 10 environment using the pyinstaller utility. If anyone wants to use the tool only,they can download the exe. Python was developed against 2.7.11 environment, it should work with Python 3. Any changes to script would not change the executable automatically.
 
 ============Usage Notes===================================
+
 This utlity allows the user to input a directory that stores a number of CSV files.
 The CSV files are processed by this tool and loaded into a SQLite database.
 The location of the database file happens to be the same directory where files are stored.
